@@ -1,0 +1,9 @@
+.nav-link {
+  color: white;
+  font-size: 25px;
+  text-transform:uppercase;
+  text-decoration: none;
+  &:hover {
+    color: white;
+  }
+}

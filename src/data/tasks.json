@@ -1,0 +1,62 @@
+[
+  {
+    "id": 12,
+    "title": "The Virtual DOM",
+    "description": "Summarize how React efficiently updates the browser"
+  },
+  {
+    "id": 1,
+    "title": "Understand TSX",
+    "description": "Explain how HTML-like syntax works in .tsx files"
+  },
+  {
+    "id": 2,
+    "title": "Component Architecture",
+    "description": "Break the UI into small, reusable LEGO-like blocks"
+  },
+  {
+    "id": 3,
+    "title": "Passing Props",
+    "description": "Send data from one component to another"
+  },
+  {
+    "id": 4,
+    "title": "Setup useState",
+    "description": "Initialize a state variable to hold this task list"
+  },
+  {
+    "id": 11,
+    "title": "Lifting State Up",
+    "description": "Move state to a parent to share it between components"
+  },
+  {
+    "id": 5,
+    "title": "Render Lists with .map()",
+    "description": "Loop through the tasks and render a component for each"
+  },
+  {
+    "id": 6,
+    "title": "The Importance of Keys",
+    "description": "Explain why React needs a unique key for list items"
+  },
+  {
+    "id": 7,
+    "title": "Handling Events",
+    "description": "Create an onClick handler to log task details"
+  },
+  {
+    "id": 9,
+    "title": "useEffect: The Mount",
+    "description": "Load this JSON data when the app first starts"
+  },
+  {
+    "id": 10,
+    "title": "useEffect: Dependencies",
+    "description": "Explain when the effect should (and shouldn't) re-run"
+  },
+  {
+    "id": 13,
+    "title": "React vs React Native",
+    "description": "Summarize the difference between React vs React Native"
+  }
+]
